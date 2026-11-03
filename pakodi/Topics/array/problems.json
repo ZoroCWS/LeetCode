@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "array",
+    "name": "Array",
+    "tagId": "5"
+  },
+  "updatedAt": "2026-11-03T04:30:34.759Z",
+  "problems": [
+    {
+      "frontendId": "1",
+      "title": "Two Sum",
+      "slug": "two-sum",
+      "problemName": "0001-two-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/two-sum/",
+      "folderPath": "pakodi/0001-two-sum/",
+      "readmePath": "pakodi/0001-two-sum/README.md",
+      "solutions": [
+        {
+          "language": "C++",
+          "extension": ".cpp",
+          "filename": "0001-two-sum.cpp",
+          "path": "pakodi/0001-two-sum/0001-two-sum.cpp",
+          "sha": "53f45f0a571fae7976f8a87e17ce3f9df4790d82",
+          "lastSyncedAt": "2026-11-03T04:30:34.759Z"
+        }
+      ]
+    }
+  ]
+}
